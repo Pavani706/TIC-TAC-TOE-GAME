@@ -33,3 +33,8 @@ A simple and interactive **Tic Tac Toe** game built using vanilla HTML, CSS, and
 
 Instead of traditional index-based win checking, the game uses a **Magic Square** (`3x3`) where all winning combinations sum to 15:
 
+![Screenshot 2025-05-31 005308](https://github.com/user-attachments/assets/37b745eb-a134-480d-9e3d-21c5f08a5332)
+
+
+
+
